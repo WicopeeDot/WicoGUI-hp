@@ -9,3 +9,6 @@
  * or git clone it if your server is working from computer.
 2. Place the `WicoGUI-hp-master` folder into `garrysmod/addons/chatsounds` path.
 3. Done.
+
+## How it looks?
+![Screenshot](http://i.imgur.com/L3Z60gQ.jpg)
