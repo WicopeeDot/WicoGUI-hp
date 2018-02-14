@@ -32,7 +32,7 @@ local widthar = 0
 local g = 175
 local r = 0
 
-function DrawPlyHPHUD()
+local function DrawPlyHPHUD()
 	draw.RoundedBox(5,32,ScrH() - 64,ScreenScale(100),ScreenScale(14),Color(5,5,5,175))
 	draw.DrawText("HP ".. oldhp, "Roboto Bk", 36, ScrH() - 64) --HP
 	draw.RoundedBox(0,32,ScrH() - 32,ScreenScale(100),ScreenScale(1),Color(175,175,175,175))
